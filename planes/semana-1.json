@@ -1,0 +1,20 @@
+{
+  "dias": 7,
+  "personas": {
+    "hombre": {
+      "desayuno": {"avena": 70, "leche_sl": 300, "platano": 1, "huevo": 3},
+      "comida": {"pollo_muslo": 200, "arroz": 75, "verduras": 150},
+      "snack_1": {"wrap": 1, "atun": 95},
+      "cena": {"carne_picada": 150, "alubias": 100, "boniato": 200, "tomate": 100, "verduras": 100},
+      "snack_2": {"yogur_sl": 150}
+    },
+    "mujer": {
+      "desayuno": {"avena": 60, "leche_sl": 250, "platano": 1, "huevo": 2},
+      "comida": {"pollo_muslo": 170, "arroz": 65, "verduras": 150},
+      "snack_1": {"wrap": 1, "atun": 95},
+      "cena": {"carne_picada": 130, "alubias": 100, "boniato": 150, "tomate": 100, "verduras": 100},
+      "snack_2": {"yogur_sl": 150}
+    }
+  },
+  "cocina": {"aceite": 70}
+}

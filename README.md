@@ -21,3 +21,13 @@ verificados directamente en la web de la tienda.
    página del producto (columna por 100 g / 100 ml), sin estimaciones.
 3. Los precios cambian a menudo: un producto con verificación de más de 30 días
    se vuelve a comprobar antes de usarlo en un plan nuevo.
+
+## Generar la lista de la compra
+
+```
+python3 scripts/lista_compra.py planes/semana-1.json > planes/semana-1.md
+```
+
+El plan (`planes/*.json`) indica gramos o unidades por persona y comida. El
+script calcula las macros diarias de cada persona y la lista semanal en envases
+completos con su coste.
