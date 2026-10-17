@@ -20,7 +20,7 @@ with open(sys.argv[1], newline="") as f:
 
 for p in productos:
     r = precios.get(p["id"])
-    if not r or not r["precio"]:
+    if not r or not r["precio"] or float(r["precio"]) == 0:
         print(f"SIN PRECIO  {p['id']}: {r['nombre'] if r else 'no consultado'}")
         continue
     if r["disponible"].lower() == "false":

@@ -1,0 +1,16 @@
+id,stockcode,nombre,precio,precio_unidad,disponible,fecha
+avena,79402,"Lowan Rolled Wholegrain Oats 1kg",4.5,"$0.45 / 100G",true,2026-10-17
+leche_sl,553273,"Norco Lactose Free Lite Milk 2L",6.65,"$3.33 / 1L",true,2026-10-17
+platano,133211,"Cavendish Bananas each",0.81,"$0.81 / 1EA",true,2026-10-17
+huevo,313900,"Manning Valley 12 Pack Extra Large Free Range Eggs 700g",8.7,"$1.24 / 100G",true,2026-10-17
+pollo_muslo,727622,"Woolworths RSPCA Approved Chicken Thigh Fillets Skinless 1.2kg - 1.8kg",0,"$0.00 / 1KG",false,2026-10-17
+arroz,72779,"Woolworths Essentials Long Grain Rice 5kg",8.5,"$0.17 / 100G",true,2026-10-17
+verduras,93915,"Woolworths Essentials Frozen Mixed Vegetables 1kg",2.8,"$2.80 / 1KG",true,2026-10-17
+carne_picada,577862,"Woolworths Lean Beef Mince 1kg",19,"$19.00 / 1KG",true,2026-10-17
+alubias,907048,"Woolworths Four Bean Mix 420g",0.95,"$2.26 / 1KG",true,2026-10-17
+tomate,311488,"Woolworths Essentials Diced Tomatoes 400g",0.95,"$2.38 / 1KG",true,2026-10-17
+boniato,147071,"Sweet Potato Gold each",2.7,"$2.70 / 1EA",true,2026-10-17
+atun,178886,"Woolworths Essentials Tuna Chunks In Spring Water 425g",3.3,"$7.76 / 1KG",true,2026-10-17
+wrap,634919,"Woolworths Wholegrain Wrap 8Pk 360g",2.2,"$0.61 / 100G",true,2026-10-17
+yogur_sl,459245,"",0,"",false,2026-10-17
+aceite,698868,"Woolworths Extra Virgin Spanish Olive Oil 1L",14,"$1.40 / 100ML",false,2026-10-17

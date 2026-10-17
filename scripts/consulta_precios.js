@@ -9,7 +9,7 @@
   ["leche_sl", "553273"],
   ["platano", "133211"],
   ["huevo", "313900"],
-  ["pollo_muslo", "727622"],
+  ["pollo_muslo", "121947"],
   ["arroz", "72779"],
   ["verduras", "93915"],
   ["carne_picada", "577862"],
@@ -18,8 +18,8 @@
   ["boniato", "147071"],
   ["atun", "178886"],
   ["wrap", "634919"],
-  ["yogur_sl", "459245"],
-  ["aceite", "698868"]
+  ["yogur_sl", "85067"],
+  ["aceite", "903638"]
   ];
   const lineas = ["id,stockcode,nombre,precio,precio_unidad,disponible,fecha"];
   const hoy = new Date().toISOString().slice(0, 10);
