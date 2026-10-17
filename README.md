@@ -31,3 +31,10 @@ python3 scripts/lista_compra.py planes/semana-1.json > planes/semana-1.md
 El plan (`planes/*.json`) indica gramos o unidades por persona y comida. El
 script calcula las macros diarias de cada persona y la lista semanal en envases
 completos con su coste.
+
+## Actualizar precios reales
+
+1. Abre https://www.woolworths.com.au con tu sesión iniciada, pulsa F12 →
+   Console, pega `scripts/consulta_precios.js` y pulsa Enter.
+2. El resultado se copia al portapapeles: guárdalo como `precios.csv` en la raíz.
+3. `python3 scripts/actualizar_precios.py precios.csv` y vuelve a generar la lista.
